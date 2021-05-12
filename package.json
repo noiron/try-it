@@ -1,6 +1,6 @@
 {
-  "name": "try-it",
-  "version": "0.1.0",
+  "name": "try-it-cli",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noiron/try-it.git"
+    "url": "git+https://github.com/noiron/try-it-cli.git"
   },
   "author": "noiron",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noiron/try-it/issues"
+    "url": "https://github.com/noiron/try-it-cli/issues"
   },
-  "homepage": "https://github.com/noiron/try-it#readme",
+  "homepage": "https://github.com/noiron/try-it-cli#readme",
   "dependencies": {
     "commander": "^7.2.0",
     "download-git-repo": "^3.0.2",
